@@ -11,6 +11,10 @@
     width: 20%;
     background-color: #ffd9df;
     text-align: center;
+    margin-right: 5px;
+}
+#top .top-child:last-child {
+    margin-right: 0;
 }
 
 #middle {
