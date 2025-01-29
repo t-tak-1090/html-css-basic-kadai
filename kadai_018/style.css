@@ -4,10 +4,10 @@
     width: 800px;
     background-color: #dcc9f4;
     margin: 20px auto 20px auto;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 #top .top-child {
+    display: inline-block;
     width: 20%;
     background-color: #ffd9df;
     text-align: center;
